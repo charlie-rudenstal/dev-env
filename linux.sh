@@ -10,7 +10,7 @@ source components/wget.sh
 source components/fish.sh
 
 # tmux
-source components/tmux.sh
+# source components/tmux.sh
 
 # vim
 source components/vim.sh
