@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # homebrew
-source components/linux/brew.sh
+source components/ubuntu/brew.sh
 
 # wget
 source components/wget.sh
