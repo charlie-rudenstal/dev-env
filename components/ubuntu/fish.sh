@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 # fish
-sudo apt-get-repository ppa:fish-shell/release-2
-sudo apt-get update
-sudo apt-get install fish
+# sudo apt-get repository ppa:fish-shell/release-2
+# sudo apt-get update
+# sudo apt-get install fish
+wget https://launchpad.net/~fish-shell/+archive/ubuntu/release-2/+files/fish_2.2.0-1%7Etrusty_amd64.deb
+sudo dpkg -i fish_2.2.0-1~trusty_amd64.deb
 
 # config
 mkdir -p ~/.config/fish
