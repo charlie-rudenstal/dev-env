@@ -12,3 +12,4 @@ wget -O ~/.config/fish/config.fish https://gist.githubusercontent.com/charlie-ru
 
 # make it the default shell
 chsh -s /usr/bin/fish
+fish
