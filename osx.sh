@@ -7,7 +7,7 @@ source components/osx/brew.sh
 source components/wget.sh
 
 # fish
-source components/fish.sh
+source components/osx/fish.sh
 
 # tmux
 source components/tmux.sh
